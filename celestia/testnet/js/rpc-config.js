@@ -1,4 +1,5 @@
 export const rpcServers = [
+    "https://celestia-testnet-rpc.r1m.team",
     "https://celestia-testnet-rpc.itrocket.net",
     "https://celestia-testnet.rpc.kjnodes.com",
     "https://celestia-testnet-rpc.stake-town.com",
